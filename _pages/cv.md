@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016
-* M.S. in Jekyll, GitHub University, 2014
+* M.S. in Electrical Engineering, 2021
 * Ph.D in Electrical Engineering, University of Queensland, Australia, 2022 (expected)
 
 Work experience
