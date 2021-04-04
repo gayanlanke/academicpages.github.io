@@ -1,14 +1,14 @@
 ---
-title: "ELEC 2004"
+title: "UQ teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Queensland, School of ITEE"
 date: 2014-01-01
-location: "City, Country"
+location: "Brisbane,  Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a second year undergraduate course for electrical and mechanical engineering students.
 
 Heading 1
 ======
