@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.Sc. in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016
-* M.S. in Electrical Engineering, 2021
+* M.Sc. Eng. in Electrical Power in Electrical Engineering, 2021
 * Ph.D in Electrical Engineering, University of Queensland, Australia, 2022 (expected)
 
-Work experience
+## Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+## Skills
 ======
 * Skill 1
 * Skill 2
