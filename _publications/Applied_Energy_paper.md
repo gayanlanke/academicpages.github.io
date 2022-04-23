@@ -6,9 +6,10 @@ excerpt: 'Abstract: Uncertainties at end-user and aggregator levels can be highl
 date: 2022-01-15
 venue: 'Applied Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0306261921012757?via%3Dihub'
-citation: 'Lankeshwara, Gayan & Sharma, Rahul & Yan, Ruifeng & Saha, Tapan K., 2022. &quot;Control algorithms to mitigate the effect of uncertainties in residential demand management,&quot; <i>Applied Energy</i>, Elsevier, vol. 306(PA).
+citation: 'Lankeshwara, Gayan & Sharma, Rahul & Yan, Ruifeng & Saha, Tapan K., 2022. &quot;Control algorithms to mitigate the effect of uncertainties in residential demand management,&quot; <i>Applied Energy</i>, Elsevier, vol. 306(PA).'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
