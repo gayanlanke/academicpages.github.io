@@ -12,4 +12,4 @@ citation: 'Lankeshwara, Gayan & Sharma, Rahul & Yan, Ruifeng & Saha, Tapan K., 2
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Lankeshwara, Gayan & Sharma, Rahul & Yan, Ruifeng & Saha, Tapan K., 2022. "Control algorithms to mitigate the effect of uncertainties in residential demand management," <i>Applied Energy</i>, Elsevier, vol. 306(PA).
