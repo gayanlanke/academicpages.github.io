@@ -2,7 +2,7 @@
 title: "Dynamic operating envelopes-enabled demand response in low-voltage residential networks"
 collection: publications
 permalink: /publication/APPEEC_paper
-excerpt: ''
+excerpt: 'this is a sample text'
 date: 2022-11-23
 venue: '2022 IEEE PES 14th Asia-Pacific Power and Energy Engineering Conference (APPEEC)'
 paperurl: 'https://doi.org/10.1109/APPEEC53445.2022.10072108'
