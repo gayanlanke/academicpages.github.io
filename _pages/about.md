@@ -17,5 +17,9 @@ I am a final year PhD student working with [Dr. Rahul Sharma](https://researcher
 - Distributed Control
 - Robust Optimisation
 
+## Education
 
+* B.Sc. (First class honors) in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016.
+* M.Sc. Eng. in Electrical Power Applications, University of Peradeniya, 2021.
+* PhD in Electrical Engineering, University of Queensland, Australia, 2023.
 
