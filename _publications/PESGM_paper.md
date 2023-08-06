@@ -9,6 +9,6 @@ paperurl: 'https://ieeexplore.ieee.org/document/9637890'
 citation: 'G. Lankeshwara, R. Sharma, R. Yan and T. K. Saha, &quot;Control of Residential Air-conditioning Loads to Provide Regulation Services under Uncertainties,&quot; <i>2021 IEEE Power & Energy Society General Meeting (PESGM)</i>, 2021, pp. 1-5, doi: 10.1109/PESGM46819.2021.9637890.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/PESGM_2021_accepted_paper.pdf)
 
 Recommended citation: G. Lankeshwara, R. Sharma, R. Yan and T. K. Saha, "Control of Residential Air-conditioning Loads to Provide Regulation Services under Uncertainties," <i>2021 IEEE Power & Energy Society General Meeting (PESGM)</i>, 2021, pp. 1-5, doi: 10.1109/PESGM46819.2021.9637890.

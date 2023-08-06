@@ -9,7 +9,7 @@ paperurl: 'https://doi.org/10.1080/00207179.2023.2241579'
 citation: 'Gayan Lankeshwara and Rahul Sharma, &quot;Robust Provision of Demand Response from Thermostatically Controllable Loads using Lagrangian Relaxation,&quot; <i> International Journal of Control</i>, 2023, doi: 10.1080/00207179.2023.2241579.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/IJC_2023_accepted_paper.pdf)
 
 Recommended citation: Gayan Lankeshwara and Rahul Sharma, "Robust Provision of Demand Response from Thermostatically Controllable Loads using Lagrangian Relaxation," <i>International Journal of Control</i>, 2023, doi: 10.1080/00207179.2023.2241579.
 
