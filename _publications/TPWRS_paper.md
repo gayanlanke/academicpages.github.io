@@ -9,6 +9,6 @@ paperurl: 'https://10.1109/TPWRS.2023.3302421'
 citation: 'Lankeshwara, Gayan & Sharma, Rahul & Yan, Ruifeng & Saha, Tapan K., 2022. &quot;Control algorithms to mitigate the effect of uncertainties in residential demand management,&quot; <i>Applied Energy</i>, Elsevier, vol. 306(PA).'
 ---
 
-[Download accepted paper here](https://gayanlanke.github.io/files/TPWRS_paper.pdf)
+[Download accepted paper here](https://gayanlanke.github.io/files/TPWRS_2023_accepted_paper.pdf)
 
 Recommended citation: Lankeshwara, Gayan & Sharma, Rahul & Yan, Ruifeng & Saha, Tapan K., 2022. "Control algorithms to mitigate the effect of uncertainties in residential demand management," <i>Applied Energy</i>, Elsevier, vol. 306(PA).
