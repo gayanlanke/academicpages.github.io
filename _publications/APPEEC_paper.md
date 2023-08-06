@@ -10,4 +10,6 @@ citation: 'G. Lankeshwara and R. Sharma, &quot;Dynamic operating envelopes-enabl
 
 Abstract: This paper presents a real-time, coordinated approach for residential demand response (DR) participation in electricity markets under the dynamic operating envelopes (DOEs) framework. In the first stage, the distribution network service provider (DNSP) utilises a convex hull method to construct DOEs at each customer point-of-connection (PoC). In the second stage, the demand response aggregator (DRA) employs a hierarchical control framework for tracking a load set-point signal commanded by the market operator while individual households minimise their electricity costs. In this regard, the real-time control operation takes account of DOEs assigned by the DNSP. The simulation results validated on a real Australian network with realistic data suggest that the DRA is able to achieve precise tracking of the load set-point signal while honouring network statutory limits and also managing comfort for end-users. Furthermore, the approach preserves end-user privacy and is scalable.
 
-[Download accpted paper here](http://academicpages.github.io/files/APPEEC_2022_accepted_paper.pdf)
+[Download accepted paper here](https://gayanlanke.github.io/files/APPEEC_2022_accepted_paper.pdf)
+
+

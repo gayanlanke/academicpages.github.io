@@ -9,7 +9,7 @@ paperurl: 'https://doi.org/10.1016/j.energy.2022.123796'
 citation: 'G. Lankeshwara, R. Sharma, R. Yan and T.K. Saha, &quot;A hierarchical control scheme for residential air-conditioning loads to provide real-time market services under uncertainties,&quot; <i>Energy</i>, Elsevier, vol. 250, p. 123796, 2022.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/Energy_2022_accepted_paper.pdf)
+[Download accepted paper here](https://gayanlanke.github.io/files/Energy_2022_accepted_paper.pdf)
 
 
 Recommended citation: G. Lankeshwara, R. Sharma, R. Yan and T.K. Saha, "A hierarchical control scheme for residential air-conditioning loads to provide real-time market services under uncertainties," <i>Energy</i>, vol. 250, p. 123796, 2022.

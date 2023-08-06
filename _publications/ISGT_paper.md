@@ -10,7 +10,7 @@ citation: 'G. Lankeshwara, &quot;A Real-time Control Approach to Maximise the Ut
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/ISGT_2021_accepted_paper.pdf)
+[Download accepted paper here](https://gayanlanke.github.io/files/ISGT_2021_accepted_paper.pdf)
 
 Recommended citation: G. Lankeshwara, "A Real-time Control Approach to Maximise the Utilisation of Rooftop PV Using Dynamic Export Limits," <i>2021 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)</i>, 2021, pp. 1-5, doi: 10.1109/ISGTAsia49270.2021.9715714.
 
