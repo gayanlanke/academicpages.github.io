@@ -5,7 +5,7 @@ permalink: /publication/TPWRS_paper
 excerpt: 'This paper proposes a near real-time approach to determine dynamic operating envelopes that specify the feasible operating regions at end-users’ POC in an LV distribution network.'
 date: 2023-08-03
 venue: 'IEEE Transactions on Power Systems'
-paperurl: 'https://10.1109/TPWRS.2023.3302421'
+paperurl: 'https://doi.org/10.1109/TPWRS.2023.3302421'
 citation: 'G. Lankeshwara, R. Sharma, R. Yan, T. K. Saha and J. V. Milanovic, 2023. &quot;Time-varying Operating Regions of End-users and Feeders in Low-voltage Distribution Networks,&quot; <i>IEEE Transactions on Power Systems</i>, 2023, doi:10.1109/TPWRS.2023.3302421'
 ---
 
