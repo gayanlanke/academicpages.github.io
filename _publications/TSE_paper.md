@@ -2,7 +2,7 @@
 title: "Allocation of Dynamic Operating Envelopes in Distribution Networks: Technical and Equitable Perspectives"
 collection: publications
 permalink: /publication/TSE_paper
-excerpt: 'This paper proposes a near real-time approach to determine dynamic operating envelopes that specify the feasible operating regions at end-users’ POC in an LV distribution network.'
+excerpt: 'This paper proposes a two-stage, top-down approach to allocate dynamic operating envelopes in MV-LV (medium voltage-low voltage) integrated distribution networks.'
 date: 2023-05-11
 venue: 'IEEE Transactions on Sustainable Energy'
 paperurl: 'https://10.1109/TPWRS.2023.3302421'
