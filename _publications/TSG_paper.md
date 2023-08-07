@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/TSG_paper
 excerpt: 'This paper presents a new dynamic operating envelope (DOE)-integrated peer-to-peer (P2P) trading scheme to increase the exchange of electricity from prosumers to a distribution network without jeopardising the network constraints.'
 date: 2023-08-03
-venue: 'IEEE Transactions on Power Systems'
-paperurl: 'https://10.1109/TPWRS.2023.3302421'
+venue: 'IEEE Transactions on Smart Grid'
+paperurl: 'https://10.1109/TSG.2023.3297366'
 citation: 'M. I. Azim, G. Lankeshwara, W. Tushar, R. Sharma, M. R. Alam, T. K. Saha, M. Khorasany and R. Razzaghi, 2023. &quot;Dynamic Operating Envelope-enabled P2P Trading to Maximise Financial Returns of Prosumers,&quot; <i>IEEE Transactions on Smart Grids</i>, 2023, doi:10.1109/TSG.2023.3297366'
 ---
 
