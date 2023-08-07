@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+
+A detailed CV can be found [here](https://gayanlanke.github.io/files/Gayan_Lankeshwara_Academic_CV.pdf).
+
 ## Education
 ======
-* B.Sc. in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016
+
+* Ph.D in Electrical Engineering, University of Queensland, Australia, 2023
 * M.Sc. Eng. in Electrical Power in Electrical Engineering, 2021
-* Ph.D in Electrical Engineering, University of Queensland, Australia, 2022 (expected)
+* B.Sc. (First class honours) in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016
+
 
 ## Work experience
 ======
