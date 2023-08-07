@@ -5,7 +5,7 @@ permalink: /publication/TSE_paper
 excerpt: 'This paper proposes a two-stage, top-down approach to allocate dynamic operating envelopes in MV-LV (medium voltage-low voltage) integrated distribution networks.'
 date: 2023-05-11
 venue: 'IEEE Transactions on Sustainable Energy'
-paperurl: 'https://10.1109/TSTE.2023.3275082'
+paperurl: 'https://doi.org/10.1109/TSTE.2023.3275082'
 citation: 'M. R. Alam, P. T. H. Nguyen, L. Naranpanawe, T. K. Saha and G. Lankeshwara, 2023. &quot;Allocation of Dynamic Operating Envelopes in Distribution Networks: Technical and Equitable Perspectives,&quot; <i>IEEE Transactions on Power Systems</i>, 2023, doi:10.1109/TSTE.2023.3275082'
 ---
 
