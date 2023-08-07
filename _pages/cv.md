@@ -13,7 +13,6 @@ redirect_from:
 A detailed CV can be found [here](https://gayanlanke.github.io/files/Gayan_Lankeshwara_Academic_CV.pdf).
 
 ## Education
-======
 
 * Ph.D in Electrical Engineering, University of Queensland, Australia, 2023
 * M.Sc. Eng. in Electrical Power in Electrical Engineering, 2021
@@ -21,16 +20,32 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/Gayan_Lanke
 
 
 ## Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 to August 2023: Visiting Lecturer
+  * Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.
+  * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
+  * Prepared technical reports for due diligence assessment of GPS.
+  * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
+
+* Sep 2022 to Feb 2023: Power System Engineer *(Part-time)* 
+  * GSMT Consulting, Brisbane, Australia
+  * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
+  * Prepared technical reports for due diligence assessment of GPS.
+  * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
+
+* Oct 2018 to May 2019: Temporary Lecturer
+  * Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.
+  * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
+
+* May 2018 to Oct 2018: Temporary Instructor
+  * Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.
+  * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
+
+* Oct 2016 to May 2018: Electrical & Mechanical Engineer
+  * Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka.
+  * Supervised the industrial training program for apprentices and trainees.
+  * Systematised the sizing of single-phase and three-phase induction motors for cement concrete mixers with drum capacities 340 Litres and 250 Litres.
+  * Designed and manufactured a pedal-assisted four-wheeler to be used in a research facility.
   
 ## Skills
 ======
