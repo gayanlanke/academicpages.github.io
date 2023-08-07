@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-A detailed CV can be found [here](https://gayanlanke.github.io/files/Gayan_Lankeshwara_Academic_CV.pdf).
+A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 
 ## Education
 
