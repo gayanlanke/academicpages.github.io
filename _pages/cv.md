@@ -21,25 +21,29 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 
 ## Work experience
 
-* May 2023 to August 2023: Visiting Lecturer
-  * Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.
-  * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
-  * Prepared technical reports for due diligence assessment of GPS.
-  * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
+* **Visiting Lecturer** (May 2023 to August 2023)
+  * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
+  * Tasks:
+    * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
+    * Prepared technical reports for due diligence assessment of GPS.
+    * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
 
-* Sep 2022 to Feb 2023: Power System Engineer *(Part-time)* 
-  * GSMT Consulting, Brisbane, Australia
-  * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
-  * Prepared technical reports for due diligence assessment of GPS.
-  * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
+* **Power System Engineer** *(Part-time)* (Sep 2022 to Feb 2023)
+  * *GSMT Consulting, Brisbane, Australia*
+  * Tasks:
+    * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
+    * Prepared technical reports for due diligence assessment of GPS.
+    * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
 
-* Oct 2018 to May 2019: Temporary Lecturer
-  * Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.
-  * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
+* **Temporary Lecturer** (Oct 2018 to May 2019)
+  * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
+  * Tasks:
+    * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
 
-* May 2018 to Oct 2018: Temporary Instructor
-  * Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.
-  * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
+* **Temporary Instructor** (May 2018 to Oct 2018)
+  * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
+  * Tasks:
+    * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
 
 * Oct 2016 to May 2018: Electrical & Mechanical Engineer
   * Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka.
