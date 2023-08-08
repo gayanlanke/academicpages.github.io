@@ -15,7 +15,7 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 ## Education
 
 * Ph.D in Electrical Engineering, University of Queensland, Australia, 2023
-* M.Sc. Eng. in Electrical Power in Electrical Engineering, 2021
+* M.Sc. Eng. in Electrical Power in Electrical Engineering, Sri Lanka, 2021
 * B.Sc. (First class honours) in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016
 
 
@@ -52,7 +52,7 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
   
 * **Trainee Engineer** (Oct 2015 to Jan 2016)
   * *Dialog Axiata PlC, Colombo, Sri Lanka.*
-  * Worked at the DTI-Transmission Planning Division
+  * Worked at the DTI-Transmission Planning Division.
   * Tasks:
     * Developed a Disaster Recovery Plan (DR Plan) for the newly implemented Network Structure under the TNM (Transport Network Modernization) project.
     * Participated in a SFP Plugging project in order to form the virtual tunnel for Microwave Hybrid and Microwave IP links in the Central Province. 
