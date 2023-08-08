@@ -1,7 +1,7 @@
 ---
 title: "Visiting Lecturer"
 collection: teaching
-type: "M.Sc. Eng. course"
+type: "Part-time"
 permalink: /teaching/visiting-lectuer-UoP
 venue: "Department of Electrical and Electronic Engineering, University of Peradeniya"
 date: 2023-05-26
