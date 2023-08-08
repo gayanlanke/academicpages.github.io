@@ -45,11 +45,12 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
   * Tasks:
     * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
 
-* Oct 2016 to May 2018: Electrical & Mechanical Engineer
-  * Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka.
-  * Supervised the industrial training program for apprentices and trainees.
-  * Systematised the sizing of single-phase and three-phase induction motors for cement concrete mixers with drum capacities 340 Litres and 250 Litres.
-  * Designed and manufactured a pedal-assisted four-wheeler to be used in a research facility.
+* **Electrical & Mechanical Engineer** (Oct 2016 to May 2018)
+  * *Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka*.
+  * Tasks:
+    * Supervised the industrial training program for apprentices and trainees.
+    * Systematised the sizing of single-phase and three-phase induction motors for cement concrete mixers with drum capacities 340 Litres and 250 Litres.
+    * Designed and manufactured a pedal-assisted four-wheeler to be used in a research facility.
   
 ## Skills
 ======

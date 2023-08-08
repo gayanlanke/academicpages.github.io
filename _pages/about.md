@@ -21,6 +21,6 @@ I am a final year PhD student working with [Dr. Rahul Sharma](https://researcher
 
 * Ph.D. in Electrical Engineering, University of Queensland, Australia, 2023.
 * M.Sc. Eng. in Electrical Power Applications, University of Peradeniya, 2021.
-* B.Sc. in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016.
+* B.Sc. (Hons.) in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016.
 
 
