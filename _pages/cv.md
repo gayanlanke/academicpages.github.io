@@ -44,12 +44,27 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
     * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
 
 * **Electrical & Mechanical Engineer** (Oct 2016 to May 2018)
-  * *Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka*.
+  * *Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka.*
   * Tasks:
     * Supervised the industrial training program for apprentices and trainees.
     * Systematised the sizing of single-phase and three-phase induction motors for cement concrete mixers with drum capacities 340 Litres and 250 Litres.
     * Designed and manufactured a pedal-assisted four-wheeler to be used in a research facility.
   
+* **Trainee Engineer** (Oct 2015 to Jan 2016)
+  * *Dialog Axiata PlC, Colombo, Sri Lanka.*
+  * Worked at the DTI-Transmission Planning Division
+  * Tasks:
+    * Developed a Disaster Recovery Plan (DR Plan) for the newly implemented Network Structure under the TNM (Transport Network Modernization) project.
+    * Participated in a SFP Plugging project in order to form the virtual tunnel for Microwave Hybrid and Microwave IP links in the Central Province. 
+
+* **Trainee Power System Engineer** (Oct 2014 to Jan 2015)
+  * *Ceylon Electricity Board (Kandy branch), Sri Lanka.*
+  * Worked at the DTI-Transmission Planning Division
+  * Tasks:
+    * Prepared proposals for transformer augmentations and reconductoring to mitigate under-voltage issues and to improve the voltage in remote low-voltage distribution networks.
+    * Performed feasibility studies pertaining to load balancing in MV and LV distribution networks.
+    * Collaborated with technical staff in diverse projects involving transformer augmentations, construction of new high-voltage lines, installation of new customer connections and breakdown maintenance.
+
 ## Skills
 ======
 * Skill 1
