@@ -24,9 +24,7 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 * **Visiting Lecturer** (May 2023 to August 2023)
   * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
   * Tasks:
-    * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
-    * Prepared technical reports for due diligence assessment of GPS.
-    * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
+    * Gave lectures on *Distribution Lines* section of EE 662 (Distribution Systems Engineering) course of the M.Sc. Eng. in Electrical Power Applications program. 
 
 * **Power System Engineer** *(Part-time)* (Sep 2022 to Feb 2023)
   * *GSMT Consulting, Brisbane, Australia*
