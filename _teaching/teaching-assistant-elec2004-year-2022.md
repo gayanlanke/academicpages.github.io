@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Casual Tutor"
 permalink: /teaching/teaching-assistant-elec2004-year-2022
 venue: "School of EECS - The University of Queensland"
 date: 2022-07-01
