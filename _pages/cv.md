@@ -38,13 +38,13 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
   * *Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka.*
   
 * **Trainee Engineer** (Oct 2015 to Jan 2016)
-  * *Dialog Axiata PlC, Colombo, Sri Lanka.*
+  * *Dialog Axiata PLC, Colombo, Sri Lanka.*
 
 * **Trainee Power System Engineer** (Oct 2014 to Jan 2015)
   * *Ceylon Electricity Board (Kandy branch), Sri Lanka.*
 
 ## Skills
-======
+
 * Power Systems
   * OpenDSS
   * RSCAD
@@ -61,24 +61,33 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 * Control Theory and Mathematical Optimisation
 * Electrical Machines
 
-Publications
-======
+
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Professional Memberships
+
+* **Member** (2016 to present)
+  * *Institute of Electrical and Electronics Engineers (IEEE)*
+
+* **Associate Member** (2017 to present)
+  * *Institute of Engineers Sri Lanka (IESL)*  
+
+ * **Associate Engineer** (2017 to present)
+  * *Engineering Council Sri Lanka (ECSL)*   
