@@ -13,6 +13,7 @@ I am a final year PhD student working with [Dr. Rahul Sharma](https://researcher
 ## Research Interests
 
 - Grid integration of distributed energy resources
+- Active distribution network management
 - Demand Response
 - Distributed Control
 - Robust Optimisation

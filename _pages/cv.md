@@ -84,10 +84,10 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 ## Professional Memberships
 
 * **Member** (2016 to present)
-  * *Institute of Electrical and Electronics Engineers (IEEE)*
+  * *Institute of Electrical and Electronics Engineers (IEEE), USA*
 
 * **Associate Member** (2017 to present)
   * *Institute of Engineers Sri Lanka (IESL)*  
 
- * **Associate Engineer** (2017 to present)
+* **Associate Engineer** (2017 to present)
   * *Engineering Council Sri Lanka (ECSL)*   
