@@ -23,56 +23,43 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 
 * **Visiting Lecturer** (May 2023 to August 2023)
   * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
-  * Tasks:
-    * Gave lectures on *Distribution Lines* section of EE 662 (Distribution Systems Engineering) course of the M.Sc. Eng. in Electrical Power Applications program. 
+
 
 * **Power System Engineer** *(Part-time)* (Sep 2022 to Feb 2023)
   * *GSMT Consulting, Brisbane, Australia*
-  * Tasks:
-    * Performed PSS/E due diligence assessments of generator performance standards (GPS) for solar farms in Queensland and battery energy storage in South Australia.
-    * Prepared technical reports for due diligence assessment of GPS.
-    * Participated in internal training for generator connection studies, PSS/E dynamic model development, python automation tools for power systems studies in PSS/E.
 
 * **Temporary Lecturer** (Oct 2018 to May 2019)
   * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
-  * Tasks:
-    * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
 
 * **Temporary Instructor** (May 2018 to Oct 2018)
   * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
-  * Tasks:
-    * Conducted practical sessions, tutorials for undergraduate students at the Power and Energy Lab.
 
 * **Electrical & Mechanical Engineer** (Oct 2016 to May 2018)
   * *Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka.*
-  * Tasks:
-    * Supervised the industrial training program for apprentices and trainees.
-    * Systematised the sizing of single-phase and three-phase induction motors for cement concrete mixers with drum capacities 340 Litres and 250 Litres.
-    * Designed and manufactured a pedal-assisted four-wheeler to be used in a research facility.
   
 * **Trainee Engineer** (Oct 2015 to Jan 2016)
   * *Dialog Axiata PlC, Colombo, Sri Lanka.*
-  * Worked at the DTI-Transmission Planning Division.
-  * Tasks:
-    * Developed a Disaster Recovery Plan (DR Plan) for the newly implemented Network Structure under the TNM (Transport Network Modernization) project.
-    * Participated in a SFP Plugging project in order to form the virtual tunnel for Microwave Hybrid and Microwave IP links in the Central Province. 
 
 * **Trainee Power System Engineer** (Oct 2014 to Jan 2015)
   * *Ceylon Electricity Board (Kandy branch), Sri Lanka.*
-  * Worked at the DTI-Transmission Planning Division
-  * Tasks:
-    * Prepared proposals for transformer augmentations and reconductoring to mitigate under-voltage issues and to improve the voltage in remote low-voltage distribution networks.
-    * Performed feasibility studies pertaining to load balancing in MV and LV distribution networks.
-    * Collaborated with technical staff in diverse projects involving transformer augmentations, construction of new high-voltage lines, installation of new customer connections and breakdown maintenance.
 
 ## Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Power Systems
+  * OpenDSS
+  * RSCAD
+  * PSS/E
+  * PSCAD
+* Data Analytics and Machine Learning
+  * Python
+  * R
+  * TensorFlow
+  * Google BigQuery
+  * Microsoft Excel
+* MATLAB and Simulink
+* Linux High-performance Computing
+* Control Theory and Mathematical Optimisation
+* Electrical Machines
 
 Publications
 ======
