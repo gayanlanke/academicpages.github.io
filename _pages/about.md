@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral research fellow in the [Power, Energy and Control Engineering](https://www.itee.uq.edu.au/research/power-and-energy-systems) research group at [The University of Queensland](https://www.uq.edu.au/), Australia. My project focusses on developing an all-in-one system that automatically detects and locates faulty or under-performing photovoltaic (PV) panels in utiliy-scale solar farms. I received my Ph.D. in Electrical Engineering from the same university under the supervision of Dr. Rahul Sharma, Prof. Tapan Saha and Dr. Ruifeng Yan. I am broadly interested in grid integration of behind-the-meter distributed energy resources, active distribution network management, control and machine learning applications in power systems.
-
+I am a postdoctoral research fellow in the [Power, Energy and Control Engineering](https://www.itee.uq.edu.au/research/power-and-energy-systems) research group at [The University of Queensland](https://www.uq.edu.au/), Australia. My project focusses on developing an all-in-one system that automatically detects and locates faulty or under-performing photovoltaic (PV) panels in utiliy-scale solar farms. I received my Ph.D. in Electrical Engineering from the same university under the supervision of Dr. Rahul Sharma, Prof. Tapan Saha and Dr. Ruifeng Yan. I am broadly interested in grid integration of behind-the-meter distributed energy resources, demand response and control and machine learning applications in power systems. 
 
 <!---
 
@@ -20,7 +19,7 @@ I am a final year PhD student working with [Dr. Rahul Sharma](https://researcher
 
 - Grid integration of distributed energy resources
 - Active distribution network management
-- Demand-side management
+- Demand Response
 - Distributed Control
 - Robust Optimisation
 
