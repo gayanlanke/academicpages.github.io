@@ -8,7 +8,7 @@ date: 2023-05-26
 location: "Kandy, Sri Lanka."
 ---
 
-Distribution Systems Engineering (EE 662) course is taught in semester 1 of the M.Sc. Eng. in Power Applications program for the year 2023.
+Distribution Systems Engineering (EE 662) course was taught in the first semester of the M.Sc. Eng. in Power Applications program for the year 2023.
 
 Gave lectures on the Distribution Lines section of EE 662 (Distribution Systems Engineering) course of the M.Sc. Eng. in Electrical Power Applications program. The topics covered in these lectures were as follows:
 
