@@ -2,10 +2,10 @@
 title: "Network-aware Demand Response in the Presence of Uncertainties"
 collection: publications
 permalink: /publication/PhD_thesis
-excerpt: 'This thesis develops network-aware residential demand response schemes in the presence of uncertainties.'
+excerpt: 'This PhD thesis develops network-aware residential demand response schemes in the presence of uncertainties.'
 date: 2023-08-03
-venue: 'PhD thesis'
-paperurl: 'https://doi.org/10.1109/TSG.2023.3297366'
+venue: 'UQ eSpace'
+paperurl: 'https://doi.org/10.14264/0b87703'
 citation: 'G. Lankeshwara, &quot;Network-aware Demand Response in the Presence of Uncertainties,&quot; 2023, doi:10.14264/0b87703'
 ---
 
