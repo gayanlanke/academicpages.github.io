@@ -21,9 +21,11 @@ A detailed CV can be found [here](https://gayanlanke.github.io/files/).
 
 ## Work experience
 
+* **Postdoctoral Research Fellow** (Aug 2023 to present)
+  * *School of Electrical Engineering and Computer Science, The University of Queensland, Australia.*
+
 * **Visiting Lecturer** (May 2023 to August 2023)
   * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
-
 
 * **Power System Engineer** *(Part-time)* (Sep 2022 to Feb 2023)
   * *GSMT Consulting, Brisbane, Australia*
