@@ -9,68 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+I enjoy reading books, cycling, running, playing chess, listening to podcasts and music, and watching movies. 
 
-A detailed CV can be found [here](https://gayanlanke.github.io/files/Gayan_Lankeshwara_Academic_CV.pdf).
+## My top book recommendations
 
-## Education
+* Deep Work by Cal Newport
+* A World Without Email by Cal Newport
+* Sapiens by Yuval Noah Harari
+* Man's Search for Meaning by Viktor Frankl
+* Atomic Habits by James Clear
+* Animal Farm by George Orwell
+* Outliers by Malcom Gladwell
+* 7 Habits of Highly Effective People by Stephen Covey
 
-* Ph.D in Electrical Engineering, University of Queensland, Australia, 2023
-* M.Sc. Eng. in Electrical Power in Electrical Engineering, Sri Lanka, 2021
-* B.Sc. (First class honours) in Electrical and Electronics Engineering, University of Peradeniya, Sri Lanka, 2016
+## The podcasts that I enjoy the most
+
+* Deep Questions with Cal Newport (I am a big fan of this show)
+* Lex Fridman podcast
+* The Diary of a CEO by Steven Bartleet
+* Work Life by Adam Grant
+* Tim Ferris Show
 
 
-## Work experience
+## My favourite movies
 
-* **Postdoctoral Research Fellow** (Aug 2023 to present)
-  * *School of Electrical Engineering and Computer Science, The University of Queensland, Australia.*
+* Inception
+* Interstellar
+* Batman movies
 
-* **Visiting Lecturer** (May 2023 to August 2023)
-  * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
+**Note**: I would watch any movie directed by Christoper Nolan and Quentin Tarantino. Furthermore, I would listen to any piece composed by Hans Zimmer.
 
-* **Power System Engineer** *(Part-time)* (Sep 2022 to Feb 2023)
-  * *GSMT Consulting, Brisbane, Australia*
 
-* **Temporary Lecturer** (Oct 2018 to May 2019)
-  * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
-
-* **Temporary Instructor** (May 2018 to Oct 2018)
-  * *Department of Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka.*
-
-* **Electrical & Mechanical Engineer** (Oct 2016 to May 2018)
-  * *Star Industrial Machinery (Pvt) Ltd, Kandy, Sri Lanka.*
-  
-* **Trainee Engineer** (Oct 2015 to Jan 2016)
-  * *Dialog Axiata PLC, Colombo, Sri Lanka.*
-
-* **Trainee Power System Engineer** (Oct 2014 to Jan 2015)
-  * *Ceylon Electricity Board (Kandy branch), Sri Lanka.*
-
-## Skills
-
-* Power Systems
-  * OpenDSS
-  * RSCAD
-  * PSS/E
-  * PSCAD
-* Data Analytics and Machine Learning
-  * Python
-  * R
-  * TensorFlow
-  * Google BigQuery
-  * Microsoft Excel
-* MATLAB and Simulink
-* Linux High-performance Computing
-* Control Theory and Mathematical Optimisation
-* Electrical Machines
-  
-
-## Professional Memberships
-
-* **Member** (2016 to present)
-  * *Institute of Electrical and Electronics Engineers (IEEE), USA*
-
-* **Associate Member** (2017 to present)
-  * *Institute of Engineers Sri Lanka (IESL)*  
-
-* **Associate Engineer** (2017 to present)
-  * *Engineering Council Sri Lanka (ECSL)*   
+ 
