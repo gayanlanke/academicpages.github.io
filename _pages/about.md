@@ -28,3 +28,8 @@ I received my Ph.D. in Electrical Engineering from the University of Queensland 
   * *University of Peradeniya, Sri Lanka*
 
 
+
+##
+I am always interested in forming meaningful collaborations that contribute to advancing knowledge and innovation. If you are looking to partner on research projects or academic initiatives, I would love to connect.
+
+Feel free to reach out to discuss potential collaboration opportunities :grinning: 
