@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gayan Lankeshwara"
 title_separator          : "-"
 name                     : &name "Gayan Lankeshwara"
-description              : &description "PhD student"
+description              : &description "Postdoctoral Research Fellow"
 url                      : https://gayanlanke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gayanlanke.github.io"
@@ -266,6 +266,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

@@ -27,6 +27,7 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem 'jekyll-seo-tag'
 end
 
 gem 'github-pages'
