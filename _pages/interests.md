@@ -11,11 +11,11 @@ redirect_from:
 
 I enjoy reading books, cycling, running, playing chess, listening to podcasts and music, and watching movies. 
 
-Recently, I started reading (Paul Graham Essays)[https://paulgraham.com/articles.html] and they are superb. To provide a bit of context, he is a co-founder of YCombinator. Few of my personal favourites are:
+Recently, I started reading [Paul Graham Essays](https://paulgraham.com/articles.html) and they are superb. To provide a bit of context, he is a co-founder of YCombinator. Few of my personal favourites are:
 
-* (Makers' Schedule, Manager's Schedule)[https://paulgraham.com/makersschedule.html] (Yes, I hate having too much meetings :worried:)
-* (How to get new ideas)[https://paulgraham.com/getideas.html] 
-* (Cities and Ambition)[https://paulgraham.com/cities.html]
+* [Makers' Schedule, Manager's Schedule](https://paulgraham.com/makersschedule.html) (Yes, I hate having too much meetings :worried:)
+* [How to get new ideas](https://paulgraham.com/getideas.html)
+* [Cities and Ambition](https://paulgraham.com/cities.html)
 
 
 ## My top book recommendations
